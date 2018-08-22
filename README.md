@@ -4,9 +4,6 @@ Angular CLI: 6.1.4
 Node: 8.11.3
 OS: linux x64
 Angular: 6.1.3
-... animations, common, compiler, compiler-cli, core, forms
-... http, language-service, platform-browser
-... platform-browser-dynamic, router
 
 Package                           Version
 -----------------------------------------------------------
